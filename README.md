@@ -9,6 +9,6 @@ The project creates a 3D environment with various shapes, whose properties can b
 
 ![p5code2](https://github.com/user-attachments/assets/d79d479e-34ab-4987-8727-417165083d97)
 
- Moving the right slider will change the size of the object, and the left slider will change the lighting of the environment. Toggling the "n" key will rotate the focus between the different objects, the focus is then subject to changes by the right slider etc. 
+Moving the right slider will change the size of the object, and the left slider will change the lighting of the environment. Toggling the "n" key will rotate the focus between the different objects, the focus is then subject to changes by the right slider etc. 
 
  ![p5code3](https://github.com/user-attachments/assets/b3ac1770-b009-413d-a7e2-e639ff49bd66)
